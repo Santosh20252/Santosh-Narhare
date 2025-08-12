@@ -1,4 +1,4 @@
-![logo]https://i2.wp.com/build5nines.com/wp-content/uploads/2019/03/Microsoft_Certified_Azure_Administrator_Associate_Featured_Image_2.png
+![logo] "https://i2.wp.com/build5nines.com/wp-content/uploads/2019/03/Microsoft_Certified_Azure_Administrator_Associate_Featured_Image_2.png"
 # Santosh-Narhare
 <h1 align="center">Hi 👋, I'm Santosh Narhare</h1>
 <h3 align="center">A passionate Azure Cloud from India</h3>
